@@ -1,9 +1,9 @@
-﻿> 👑 21.01<br>
+﻿> 👑 21.01-02<br>
 > 🧶 SASS 기초 공부
 
 # BASIC
 **🔔 부스트코스 '웹 UI 개발' [boostcourse](https://www.boostcourse.org/)**  <br>
-- [ ] [참고학습] Sass 기초
+- [x] [참고학습] Sass 기초
 <br><br>
 
 
